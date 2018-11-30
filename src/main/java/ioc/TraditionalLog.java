@@ -11,6 +11,7 @@ import java.util.List;
 //Canvi fet i pujat per B
 // I ara treballant sobre versió que ha pujat A i jo no he actualitzat
 // Més canvis
+//Canvio coses en el projecte forked, sóc A
 
 public class TraditionalLog {
 
